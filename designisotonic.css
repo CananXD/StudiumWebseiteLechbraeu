@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: "Kunstler Script", "TitelName";
-    src: url("Fonts/KUNSTLER.TTF") format("truetype");
+  
       src: url("Fonts/KUNSTLER.woff") format("wff");
 }
 
