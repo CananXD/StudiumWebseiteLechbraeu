@@ -1,0 +1,2 @@
+# StudiumWebseiteLechbraeu
+Studium Projekt Unternehmenskommunikation
